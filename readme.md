@@ -17,3 +17,4 @@
 1. [Google Chrome 開發網站](https://developer.chrome.com/extensions)
 2. [非官方簡體中文版](https://crxdoc-zh.appspot.com/extensions/)
 3. [JZLIN's BLOG](http://jzlin-blog.logdown.com/posts/233782-what-are-chrome-extension)
+4. [Building Chrome Extensions in React+Redux with GoGuardian](https://www.youtube.com/watch?v=k88OIWJENgE)
