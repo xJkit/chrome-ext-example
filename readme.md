@@ -12,3 +12,8 @@
 3. 點選 ``Load unpacked extension...``
 4. 選擇專案根目錄資料夾
 5. You are done. That's simple.
+
+## References
+1. [Google Chrome 開發網站](https://developer.chrome.com/extensions)
+2. [非官方簡體中文版](https://crxdoc-zh.appspot.com/extensions/)
+3. [JZLIN's BLOG](http://jzlin-blog.logdown.com/posts/233782-what-are-chrome-extension)
